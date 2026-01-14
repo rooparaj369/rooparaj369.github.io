@@ -1,2 +1,2 @@
 # rooparaj.github.io
-Github repo for own website
+Github repo for my own website
